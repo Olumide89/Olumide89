@@ -32,7 +32,7 @@ All companies, budgets, teams, timelines and outcomes in these repositories are 
 
 ## Currently
 
-- Global MBA student, Berlin School of Business and Innovation
+
 - Preparing for PMP certification
 - Seeking project coordination, junior project management, PMO and project-controls opportunities
 
