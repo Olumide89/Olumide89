@@ -1,6 +1,6 @@
 # Olumide Adeniji
 
-Berlin-based Global MBA student and aspiring project-management professional.
+An aspiring project-management professional.
 
 I am building a practical project-management portfolio focused on planning, stakeholder engagement, risk and issue management, cost control, agile delivery, and executive reporting.
 
