@@ -26,9 +26,6 @@ I am building a practical project-management portfolio focused on planning, stak
 | [ERP Stakeholder & Change Management](https://github.com/Olumide89/erp-stakeholder-change-management) | Adoption, communications and stakeholder alignment |
 | [Multi-Project Resource Optimization](https://github.com/Olumide89/multi-project-resource-optimization) | Capacity planning and resource leveling |
 
-## Important note
-
-All companies, budgets, teams, timelines and outcomes in these repositories are **fictional simulation scenarios** created for portfolio-learning purposes. They are not real client engagements or employment experience.
 
 ## Currently
 
